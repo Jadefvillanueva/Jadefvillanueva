@@ -1,16 +1,8 @@
-
-# This Action will:
-# - Run every 1 hours AND when you push to the 'main' or 'master' branch.
-# - Generate the snake SVG file.
-# - Push the generated file to a branch named 'output'.
-#
-# The README.md file will then load the image from that 'output' branch.
-
 name: Generate contribution snake
 
 on:
   schedule:
-    # Run every 1 hours
+    # Run every 1 hour
     - cron: "0 */1 * * *"
   workflow_dispatch:
   push:
@@ -18,34 +10,41 @@ on:
       - main
       - master
 
+# Needed so the workflow can push to the output branch (especially on schedule events)
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # Generates the snake animation SVG
+      # Generates the snake animation SVGs (light and dark)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           # Your GitHub username
           github_user_name: ${{ github.repository_owner }}
-          
-          # The output file
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
-          # You can customize the colors here!
-          # Example: ?color_snake=purple&color_dots=#bfd6f6
-          # color_snake=...
-          # color_dots=...
 
-      # Pushes the generated SVG to the 'output' branch
+          # Output files (v3 uses the `outputs` parameter)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Pushes the generated SVGs to the 'output' branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: "chore: update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
