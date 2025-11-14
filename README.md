@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm [Jade Villanueva/HANDLE] 👋
+### Hi there, I'm Jade Villanueva 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jadefvillanueva&label=Profile+Visitors&color=blueviolet&style=flat-square" alt="Profile visitor counter" />
@@ -49,7 +49,7 @@ My primary passion lies in **Artificial Intelligence** and **Automation**. I am 
 ### 📫 How to Reach Me
 
 * **Email:** `villanuevajadefortes1@gmail.com`
-* **LinkedIn:** [jade Villanueva](https://www.linkedin.com/in/jade-villanueva-53168b376/)
+* **LinkedIn:** [Jade Villanueva](https://www.linkedin.com/in/jade-villanueva-53168b376/)
 
 <br/>
 <p align="center">
