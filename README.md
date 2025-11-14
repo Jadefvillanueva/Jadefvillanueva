@@ -3,7 +3,7 @@
 ### Hi there, I'm [Jade Villanueva/HANDLE] 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[Jadefvillanueva]&label=Profile+Visitors&color=blueviolet&style=flat-square" alt="Profile visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=Jadefvillanueva&label=Profile+Visitors&color=blueviolet&style=flat-square" alt="Profile visitor counter" />
   <a href="https://github.com/students/verified"><img src="https://img.shields.io/badge/GitHub%20Student-Verified-blue?style=flat-square&logo=github" alt="GitHub Student Verified"></a>
 </p>
 
@@ -48,11 +48,11 @@ My primary passion lies in **Artificial Intelligence** and **Automation**. I am 
 
 ### 📫 How to Reach Me
 
-* **Email:** `jfv2022-7050-66797@bicol-u.edu.ph`
-* **LinkedIn:** `https://www.linkedin.com/in/jade-villanueva-53168b376/`
+* **Email:** `villanuevajadefortes1@gmail.com`
+* **LinkedIn:** [jade villanueva](https://www.linkedin.com/in/jade-villanueva-53168b376/)
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Jadefvillanueva]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Jadefvillanueva]&layout=compact&theme=radical" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jadefvillanueva&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadefvillanueva&layout=compact&theme=radical" alt="Your Top Languages" />
 </p>
