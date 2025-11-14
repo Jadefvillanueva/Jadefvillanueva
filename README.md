@@ -22,7 +22,7 @@ I'm a university student at <b>Bicol University Polangui</b>, passionate about b
 </p>
 <ul>
 <li>🔭 I'm currently focused on my thesis project: <a href="https://github.com/Jadefvillanueva/GabAI---Chatbot"><b>GabAI</b></a>, a smart assistant for student affairs built with Flutter and Dart.</li>
-<li>🌱 I'm deeply interested in integrating AI—especially LLMs—into real-world mobile and web applications.</li>
+<li>🌱 I'm deeply interested in <b>AI (especially LLMs)</b> and <b>workflow automation</b>, and integrating them into real-world mobile and web applications.</li>
 <li>🤝 I'm open to internships, collaborations, and project-based opportunities that let me learn, grow, and contribute.</li>
 </ul>
 
