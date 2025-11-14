@@ -1,62 +1,121 @@
-# Hi, I'm Jade Villanueva 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jadefvillanueva&label=Profile+Views&color=blueviolet&style=flat-square)](#)
-[![GitHub Student Verified](https://img.shields.io/badge/GitHub%20Student-Verified-blue?style=flat-square&logo=github)](https://github.com/students/verified)
-
-I'm a university student at **Bicol University Polangui**, passionate about building practical, user-centered applications that solve real-world problems. I'm currently focused on my thesis project and always eager to learn, collaborate, and improve.
-
----
-
-- Currently working on my thesis project: a smart assistant for student affairs built with Flutter and Dart.
-- Interested in integrating AI—especially LLMs—into real-world mobile and web applications.
-- Open to internships, collaborations, and project-based opportunities.
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/n8n-FF6200?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/make.com-4DABF7?style=for-the-badge&logo=make&logoColor=white" alt="make.com"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- [GabAI — Smart Student Affairs Assistant](https://github.com/Jadefvillanueva/GabAI---Chatbot)
-  - A Flutter-based mobile application developed for my university thesis.
-  - Status: In progress
-
-- [Poke Infos Project](https://github.com/Jadefvillanueva/Poke_Info)
-  - A simple web app that fetches and displays Pokémon data using a public API.
-  - Technologies: JavaScript, HTML, CSS
-
----
-
-## 🤖 Interests
-
-- Applying Large Language Models (LLMs) to enhance everyday tools and workflows.
-- Building automation scripts to reduce repetitive tasks.
-- Exploring the future of smart assistants and human-computer interaction.
-
----
-
-## 📫 Get in Touch
-
-- Email: `villanuevajadefortes1@gmail.com`
-- LinkedIn: [Jade Villanueva](https://www.linkedin.com/in/jade-villanueva-53168b376/)
-
-<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jadefvillanueva&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadefvillanueva&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dgradient%26height%3D250%26section%3Dheader%26text%3DJade%2520Villanueva%26fontSize%3D70%26fontColor%3Dffffff%26gradient%3Da277ff,e789b7" alt="Header Banner" />
+</p>
+
+
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSpace%2BMono%26size%3D20%26color%3Da277ff%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DHi, I'm Jade+Villanueva+👋;Student+Developer+@+Bicol+University;AI+%26+Flutter+Enthusiast;Building+practical,+user-centered+applications." alt="Typing Animation" />
+</p>
+
+<!-- MAIN CONTENT TABLE -->
+
+<table width="100%">
+<tr>
+<!-- ABOUT ME SECTION -->
+<td width="60%" valign="top">
+<h2><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%2520Technologist%2520Light%2520Skin%2520Tone.png" alt="Woman Technologist Light Skin Tone" width="35" height="35" /> About Me</h2>
+<p>
+I'm a university student at <b>Bicol University Polangui</b>, passionate about building practical, user-centered applications that solve real-world problems.
+</p>
+<ul>
+<li>🔭 I’m currently focused on my thesis project: <a href="https://github.com/Jadefvillanueva/GabAI---Chatbot"><b>GabAI</b></a>, a smart assistant for student affairs built with Flutter and Dart.</li>
+<li>🌱 I'm deeply interested in integrating AI—especially LLMs—into real-world mobile and web applications.</li>
+<li>🤝 I'm open to internships, collaborations, and project-based opportunities that let me learn, grow, and contribute.</li>
+</ul>
+
+
+
+
+  <!-- TECH STACK (Collapsible) -->
+  <details>
+    <summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> My Tech Stack</b></summary>
+    <br/>
+    <p>
+      <b>Core Languages</b><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    </p>
+    <p>
+      <b>Frameworks & Libraries</b><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </p>
+    <p>
+      <b>Tools & Platforms</b><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/n8n-FF6200?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+      <img src="https://img.shields.io/badge/make.com-4DABF7?style=for-the-badge&logo=make&logoColor=white" alt="make.com"/>
+    </p>
+  </details>
+</td>
+
+<!-- GITHUB SNAKE "SPRITE" -->
+<td width="40%" valign="top">
+  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Contribution Snake</h2>
+  <p align="center">
+    <!-- 
+      THIS IS THE MAGIC! 
+      This image will be generated by the GitHub Action. 
+      It will look broken until the Action runs for the first time.
+    -->
+    <img src="https://github.com/Jadefvillanueva/Jadefvillanueva/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </p>
+</td>
+
+
+</tr>
+</table>
+
+<!-- FEATURED PROJECTS -->
+
+<h2 align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%2520and%2520Places/Rocket.png" alt="Rocket" width="35" height="35" /> My Featured Projects</h2>
+<p align="center">
+<!-- These cards use your 'radical' theme! -->
+<a href="https://github.com/Jadefvillanueva/GabAI---Chatbot">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DJadefvillanueva%26repo%3DGabAI---Chatbot%26theme%3Dradical" alt="GabAI Project" />
+</a>
+<a href="https://github.com/Jadefvillanueva/Poke_Info">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DJadefvillanueva%26repo%3DPoke_Info%26theme%3Dradical" alt="Poke Info Project" />
+</a>
+</p>
+
+<!-- GITHUB STATS & TROPHIES -->
+
+<h2 align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%2520Chart.png" alt="Bar Chart" width="35" height="35" /> My Stats & Trophies</h2>
+<p align="center">
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Jadefvillanueva&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadefvillanueva&layout=compact&theme=radical" alt="Top Languages" />
+<!-- Profile Trophies -->
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DJadefvillanueva%26theme%3Dradical%26column%3D7" alt="GitHub Trophies" />
+</p>
+
+<!-- GET IN TOUCH -->
+
+<h2 align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%2520and%2520Places/Mailbox%2520with%2520Mail.png" alt="Mailbox with Mail" width="35" height="35" /> Get in Touch</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/jade-villanueva-53168b376/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" />
+</a>
+&nbsp;
+<a href="mailto:villanuevajadefortes1@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge" />
+</a>
+</p>
+
+<!-- Profile Views (Kept from your original) -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Jadefvillanueva&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
