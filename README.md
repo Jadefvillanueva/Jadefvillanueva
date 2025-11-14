@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=20&color=a277ff&center=true&vCenter=true&width=800&lines=Hi,+I'm+Jade+Villanueva+👋;Computer+Science+Student+at+Bicol+University;Flutter+%7C+Dart+%7C+AI+Enthusiast;Building+Smart+Solutions+for+Real+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=20&color=a277ff&center=true&vCenter=true&width=800&lines=Hi,+I'm+Jade+Villanueva+👋;Computer+Science+Student+at+Bicol+University;JavaScript+%Flutter+%7C+Dart+%7C+AI+Enthusiast;Building+Smart+Solutions+for+Real+Problems" alt="Typing SVG"/>
 </p>
 
 <!-- MAIN CONTENT TABLE -->
@@ -12,12 +12,10 @@
 <tr>
 <!-- ABOUT ME SECTION -->
 <td width="60%" valign="top">
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png"
-       alt="Man Technologist" width="35" height="35" />
-  About Me
-</h2>
-
+<picture>
+  <source srcset="assets/Man-Technologist-Light.png" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="35" height="35" />
+</picture>
 <p>
 I'm a university student at <b>Bicol University Polangui</b>, passionate about building practical, user-centered applications that solve real-world problems.
 </p>
