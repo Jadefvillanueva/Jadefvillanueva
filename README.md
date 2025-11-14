@@ -3,7 +3,7 @@
 ### Hi there, I'm [Jade Villanueva/HANDLE] 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME]&label=Profile+Visitors&color=blueviolet&style=flat-square" alt="Profile visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=[Jadefvillanueva]&label=Profile+Visitors&color=blueviolet&style=flat-square" alt="Profile visitor counter" />
   <a href="https://github.com/students/verified"><img src="https://img.shields.io/badge/GitHub%20Student-Verified-blue?style=flat-square&logo=github" alt="GitHub Student Verified"></a>
 </p>
 
@@ -26,11 +26,11 @@ I'm a university student at **Bicol University Polangui**, passionate about buil
 
 ### 🚀 My Featured Projects
 
-* **[GabAI - Smart Student Affairs Assistant]([LINK-TO-GABAI-REPO])**
+* **[GabAI - Smart Student Affairs Assistant]([https://github.com/Jadefvillanueva/GabAI---Chatbot])**
     * A Flutter-based mobile application for our university thesis.
     * *Status: In Progress*
 
-* **[Poke Infos Project]([LINK-TO-POKE-INFOS-REPO])**
+* **[Poke Infos Project]([https://github.com/Jadefvillanueva/Poke_Info])**
     * A web app that fetches and displays Pokémon data using a public API.
     * *Technologies: JavaScript, HTML, CSS* (You can change this!)
 
@@ -48,8 +48,8 @@ My primary passion lies in **Artificial Intelligence** and **Automation**. I am 
 
 ### 📫 How to Reach Me
 
-* **Email:** `[YOUR-COLLEGE-EMAIL@bicol-u.edu.ph]`
-* **LinkedIn:** `[YOUR-LINKEDIN-URL]`
+* **Email:** `jfv2022-7050-66797@bicol-u.edu.ph`
+* **LinkedIn:** `https://www.linkedin.com/in/jade-villanueva-53168b376/`
 
 <br/>
 <p align="center">
