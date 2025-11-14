@@ -12,7 +12,7 @@
 <tr>
 <!-- ABOUT ME SECTION -->
 <td width="60%" valign="top">
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%2520Technologist%2520Light%2520Skin%2520Tone.png" alt="Man Technologist" width="35" height="35" /> About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="35" height="35" /> About Me</h2>
 <p>
 I'm a university student at <b>Bicol University Polangui</b>, passionate about building practical, user-centered applications that solve real-world problems.
 </p>
@@ -72,7 +72,7 @@ I'm a university student at <b>Bicol University Polangui</b>, passionate about b
 
 <!-- GITHUB STATS & TROPHIES -->
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats</h2>
 <p align="center">
 <!-- Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Jadefvillanueva&show_icons=true&theme=radical" alt="GitHub Stats" />
