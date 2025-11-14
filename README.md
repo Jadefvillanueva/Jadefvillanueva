@@ -49,7 +49,7 @@ My primary passion lies in **Artificial Intelligence** and **Automation**. I am 
 ### 📫 How to Reach Me
 
 * **Email:** `villanuevajadefortes1@gmail.com`
-* **LinkedIn:** [jade villanueva](https://www.linkedin.com/in/jade-villanueva-53168b376/)
+* **LinkedIn:** [jade Villanueva](https://www.linkedin.com/in/jade-villanueva-53168b376/)
 
 <br/>
 <p align="center">
