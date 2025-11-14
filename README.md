@@ -53,6 +53,6 @@ My primary passion lies in **Artificial Intelligence** and **Automation**. I am 
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Jadefvillanueva]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Jadefvillanueva]&layout=compact&theme=radical" alt="Your Top Languages" />
 </p>
