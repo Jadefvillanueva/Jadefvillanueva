@@ -12,7 +12,12 @@
 <tr>
 <!-- ABOUT ME SECTION -->
 <td width="60%" valign="top">
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="35" height="35" /> About Me</h2>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png"
+       alt="Man Technologist" width="35" height="35" />
+  About Me
+</h2>
+
 <p>
 I'm a university student at <b>Bicol University Polangui</b>, passionate about building practical, user-centered applications that solve real-world problems.
 </p>
