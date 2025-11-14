@@ -18,7 +18,7 @@
   About Me
 </h2>
 <p>
-I'm a university student at <b>Bicol University Polangui</b>, passionate about building practical, user-centered applications that solve real-world problems.
+I'm a student at <b>Bicol University Polangui</b>, passionate about building practical, user-centered applications that solve real-world problems.
 </p>
 <ul>
 <li>🔭 I'm currently focused on my thesis project: <a href="https://github.com/Jadefvillanueva/GabAI---Chatbot"><b>GabAI</b></a>, a smart assistant for student affairs built with Flutter, Dart, Botpress and N8N.</li>
