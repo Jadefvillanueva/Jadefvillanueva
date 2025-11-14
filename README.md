@@ -1,8 +1,9 @@
-# Hi, I’m Jade Villanueva 👋
+# Hi, I’m Jade Villanueva 👋  
+### I solve real‑world problems with clean, user‑centered apps.
 
 <p align="center">
   <strong>Builder • Flutter/Dart • JavaScript</strong><br/>
-  <em>I turn ideas into clean, user‑centered apps.</em>
+  <em>Turning ideas into practical tools that help people.</em>
 </p>
 
 <p align="center">
@@ -12,11 +13,15 @@
 
 ---
 
-## About me
-- University student at **Bicol University Polangui**
-- Currently building a thesis project: a smart student‑affairs assistant with **Flutter** and **Dart**
-- Exploring how to bring **LLMs** into real mobile and web apps
-- Open to internships, collaborations, and project‑based work
+## About Me
+- 🎓 University student at **Bicol University Polangui**
+- 📱 Building my thesis: a smart student‑affairs assistant using **Flutter** + **LLMs**
+- 🧠 Exploring how to integrate language models into real mobile & web experiences
+- 🤝 Open to internships, collaborations, and project‑based work
+- 💡 Personal motto: **I solve real‑world problems.**
+
+## What Drives Me
+I love identifying friction in everyday academic and productivity workflows and designing small, focused tools that remove it—whether through automation, conversational interfaces, or smart assistance.
 
 ## Toolbox
 <p>
@@ -27,20 +32,36 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## Featured projects
+## Featured Projects
 - <strong><a href="https://github.com/Jadefvillanueva/GabAI---Chatbot">GabAI — Smart Student Affairs Assistant</a></strong><br/>
-  Flutter‑based mobile app for my thesis. <em>Status: In progress</em>
+  Thesis project: A Flutter mobile app that helps students interact with school processes via an AI assistant. <em>Status: In progress</em><br/>
+  <sub>Flutter • Dart • LLM integration • UX for conversational systems</sub>
 - <strong><a href="https://github.com/Jadefvillanueva/Poke_Info">Poke Infos</a></strong><br/>
-  Simple web app that fetches Pokémon data via a public API. <sub>JavaScript • HTML • CSS</sub>
+  Lightweight web app that fetches Pokémon data via a public API. Focused on clean API usage & UI state handling.<br/>
+  <sub>JavaScript • HTML • CSS • REST APIs</sub>
 
 ## Interests
-- Applying Large Language Models to everyday tools and workflows
-- Building small automations to remove repetitive tasks
-- Smart assistants and human‑computer interaction
+- Embedding Large Language Models into real products
+- Smart assistants & human–computer interaction
+- Automation to remove repetitive academic/admin tasks
+- Clean architecture in Flutter apps
 
-## Get in touch
-- Email: <a href="mailto:villanuevajadefortes1@gmail.com">villanuevajadefortes1@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/jade-villanueva-53168b376/">Jade Villanueva</a>
+## How I Approach Problems
+1. Clarify: What real pain point exists?
+2. Scope: What is the smallest useful version?
+3. Build: Ship a working prototype quickly.
+4. Refine: Improve UX, performance, and maintainability.
+5. Observe: Gather feedback & iterate intelligently.
+
+## Currently Learning / Next Goals
+- Prompt engineering patterns for mobile apps
+- State management best practices in larger Flutter codebases
+- Evaluating LLM responses for reliability
+- Deploying lightweight backend services for app features
+
+## Get in Touch
+- 📧 Email: <a href="mailto:villanuevajadefortes1@gmail.com">villanuevajadefortes1@gmail.com</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/jade-villanueva-53168b376/">Jade Villanueva</a>
 
 ---
 
