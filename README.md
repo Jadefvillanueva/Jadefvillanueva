@@ -26,13 +26,13 @@ I'm a university student at **Bicol University Polangui**, passionate about buil
 
 ### 🚀 My Featured Projects
 
-* **[GabAI - Smart Student Affairs Assistant]([https://github.com/Jadefvillanueva/GabAI---Chatbot])**
+* **[GabAI - Smart Student Affairs Assistant]([https://github.com/Jadefvillanueva/GabAI---Chatbot)**
     * A Flutter-based mobile application for our university thesis.
     * *Status: In Progress*
 
-* **[Poke Infos Project]([https://github.com/Jadefvillanueva/Poke_Info])**
+* **[Poke Infos Project]([https://github.com/Jadefvillanueva/Poke_Info)**
     * A web app that fetches and displays Pokémon data using a public API.
-    * *Technologies: JavaScript, HTML, CSS* (You can change this!)
+    * *Technologies: JavaScript, HTML, CSS* 
 
 ---
 
