@@ -17,14 +17,11 @@
        alt="Man Technologist" width="35" height="35" />
   About Me
 </h2>
-<p>
-I'm a student at <b>Bicol University Polangui</b>, passionate about building practical, user-centered applications that solve real-world problems.
-</p>
-<ul>
-<li>🔭 I'm currently focused on my thesis project: <a href="https://github.com/Jadefvillanueva/GabAI---Chatbot"><b>GabAI</b></a>, a smart assistant for student affairs built with Flutter, Dart, Botpress and N8N.</li>
-<li>🌱 I'm deeply interested in <b>AI (especially LLMs)</b> and <b>workflow automation</b>, and integrating them into real-world mobile and web applications.</li>
-<li>🤝 I'm open to internships, collaborations, and project-based opportunities that let me learn, grow, and contribute.</li>
-</ul>
+  
+* 🎓 Student at **Bicol University**.
+* 🔭 Currently building my thesis project: [**GabAI**](https://github.com/Jadefvillanueva/GabAI---Chatbot), an AI assistant using Flutter, Dart, Botpress and N8N.
+* 🌱 Focused on **AI, LLMs, and workflow automation**.
+* 🤝 Seeking **internships and project collaborations**.
 
   <!-- TECH STACK (Collapsible) -->
   <details>
